@@ -1,0 +1,44 @@
+HTTrack3.49-2 launched on Mon, 19 Sep 2022 14:04:08 at https://preview.colorlib.com/theme/buildream/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://preview.colorlib.com/theme/buildream/index.html -O "/home/kumartej/websites/construction1" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:04:59	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://preview.colorlib.com/theme/buildream/index.html)
+14:05:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/xbg_4.jpg.pagespeed.ic.ZAlmYxxPMb.jpg
+14:05:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/xbg_1.jpg.pagespeed.ic.MmmQMOX8z8.jpg
+14:05:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/xabout.jpg.pagespeed.ic.RKEDHzGegC.jpg
+14:05:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/xservices.jpg.pagespeed.ic.kCFK1nGlvO.jpg
+14:05:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/xbg_2.jpg.pagespeed.ic.7sptddicsi.jpg
+14:05:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/xstaff-2.jpg.pagespeed.ic.YkGciHPkso.jpg
+14:05:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/xstaff-1.jpg.pagespeed.ic.UZeekokIcK.jpg
+14:05:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/xstaff-3.jpg.pagespeed.ic.HfIwwpA189.jpg
+14:05:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/xwork-1.jpg.pagespeed.ic.V1mj3Ww27y.jpg
+14:05:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/xstaff-4.jpg.pagespeed.ic.5V7Rtt9rke.jpg
+14:05:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/work-1.jpg
+14:05:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/xwork-2.jpg.pagespeed.ic.dr76cxYQC7.jpg
+14:05:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/work-2.jpg
+14:05:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/xwork-3.jpg.pagespeed.ic.b19mKwqJwd.jpg
+14:05:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/work-3.jpg
+14:05:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/xwork-4.jpg.pagespeed.ic.33T86iu_Ld.jpg
+14:05:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/work-4.jpg
+14:05:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/work-5.jpg
+14:05:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/xwork-5.jpg.pagespeed.ic.KPmQn3G91i.jpg
+14:05:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/xwork-6.jpg.pagespeed.ic.LuZY1UWClv.jpg
+14:05:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/work-6.jpg
+14:05:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/xperson_1.jpg.pagespeed.ic.P4pHl6glbj.jpg
+14:05:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/xperson_2.jpg.pagespeed.ic.yyrmjBH91b.jpg
+14:05:38	Error: 	"Bad Request" (400) at link https://preview.colorlib.com/cdn-cgi/zaraz/s.js?z= (from https://preview.colorlib.com/theme/buildream/index.html)
+14:05:38	Warning: 	HTML file (20140 bytes) retransferred due to lack of cache: https://preview.colorlib.com/theme/buildream/blog-single.html
+14:05:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/ximage_1.jpg.pagespeed.ic.YtsUmYkaJM.jpg
+14:05:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://preview.colorlib.com/theme/buildream/images/ximage_2.jpg.pagespeed.ic.e3uHj3bivR.jpg
+14:05:45	Warning: 	Retry after error -4 (Interrupted transfer) at link https://preview.colorlib.com/theme/buildream/blog-single.html (from https://preview.colorlib.com/theme/buildream/index.html)
+14:05:47	Warning: 	HTML file (20140 bytes) retransferred due to lack of cache: https://preview.colorlib.com/theme/buildream/blog-single.html
+14:05:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://preview.colorlib.com/theme/buildream/blog-single.html (from https://preview.colorlib.com/theme/buildream/index.html)
+14:05:48	Warning: 	HTML file (20140 bytes) retransferred due to lack of cache: https://preview.colorlib.com/theme/buildream/blog-single.html
+14:05:49	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://preview.colorlib.com/theme/buildream/blog-single.html (from https://preview.colorlib.com/theme/buildream/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 41 seconds : 67 links scanned, 85 files written (21087637 bytes overall) [19561712 bytes received at 193680 bytes/sec], 1431554 bytes transferred using HTTP compression in 22 files, ratio 29%, 4.3 requests per connection
+(3 errors, 30 warnings, 0 messages)
